@@ -6,7 +6,7 @@
 
 *A sleepy, plain, and simple cup of coffee.*
 
-![Java preview](previews/java.gif)
+![Java preview](previews/java.webp)
 
 Install Java:
 
@@ -20,7 +20,7 @@ curl -fsSL https://raw.githubusercontent.com/CratesSo/Codex_Pets/main/install/ja
 
 *A sleek Culture-inspired floating drone.*
 
-![Elyndex preview](previews/elyndex.gif)
+![Elyndex preview](previews/elyndex.webp)
 
 Install Elyndex:
 
