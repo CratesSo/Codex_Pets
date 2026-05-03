@@ -8,13 +8,13 @@
 
 ![Java preview](previews/java.webp)
 
-Install Java on macOS/Linux:
+Install on macOS / Linux:
 
 ```sh
 curl -fsSL https://raw.githubusercontent.com/CratesSo/Codex_Pets/main/install/java.sh | bash
 ```
 
-Install Java on Windows PowerShell:
+Install with Windows PowerShell:
 
 ```powershell
 irm https://raw.githubusercontent.com/CratesSo/Codex_Pets/main/install/java.ps1 | iex
@@ -28,13 +28,13 @@ irm https://raw.githubusercontent.com/CratesSo/Codex_Pets/main/install/java.ps1 
 
 ![Elyndex preview](previews/elyndex.webp)
 
-Install Elyndex on macOS/Linux:
+Install on macOS / Linux:
 
 ```sh
 curl -fsSL https://raw.githubusercontent.com/CratesSo/Codex_Pets/main/install/elyndex.sh | bash
 ```
 
-Install Elyndex on Windows PowerShell:
+Install with Windows PowerShell:
 
 ```powershell
 irm https://raw.githubusercontent.com/CratesSo/Codex_Pets/main/install/elyndex.ps1 | iex
@@ -48,13 +48,13 @@ irm https://raw.githubusercontent.com/CratesSo/Codex_Pets/main/install/elyndex.p
 
 ![Nukie preview](previews/peacemaker.webp)
 
-Install Nukie on macOS/Linux:
+Install on macOS / Linux:
 
 ```sh
 curl -fsSL https://raw.githubusercontent.com/CratesSo/Codex_Pets/main/install/peacemaker.sh | bash
 ```
 
-Install Nukie on Windows PowerShell:
+Install with Windows PowerShell:
 
 ```powershell
 irm https://raw.githubusercontent.com/CratesSo/Codex_Pets/main/install/peacemaker.ps1 | iex
