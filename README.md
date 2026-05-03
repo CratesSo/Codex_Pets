@@ -30,6 +30,20 @@ curl -fsSL https://raw.githubusercontent.com/CratesSo/Codex_Pets/main/install/el
 
 ---
 
+## Peacemaker
+
+*A laid-back olive atomic bomb with a painted peace sign.*
+
+![Peacemaker preview](previews/peacemaker.webp)
+
+Install Peacemaker:
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/CratesSo/Codex_Pets/main/install/peacemaker.sh | bash
+```
+
+---
+
 ## Backup Behavior
 
 *Existing pets with the same id are saved with a timestamp before the new copy is installed.*
