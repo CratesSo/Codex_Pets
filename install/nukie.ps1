@@ -1,6 +1,6 @@
 $ErrorActionPreference = "Stop"
 
-$petId = "peacemaker"
+$petId = "nukie"
 $repoUrl = $env:CODEX_PETS_BASE_URL
 if ([string]::IsNullOrWhiteSpace($repoUrl)) {
     $repoUrl = "https://raw.githubusercontent.com/CratesSo/Codex_Pets/main"

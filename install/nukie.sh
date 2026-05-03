@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-pet_id="peacemaker"
+pet_id="nukie"
 repo_url="${CODEX_PETS_BASE_URL:-https://raw.githubusercontent.com/CratesSo/Codex_Pets/main}"
 pets_root="$HOME/.codex/pets"
 install_path="$pets_root/$pet_id"
@@ -21,7 +21,7 @@ curl --retry 3 --retry-delay 1 --connect-timeout 10 -fsSL "$repo_url/pets/$pet_i
 curl --retry 3 --retry-delay 1 --connect-timeout 10 -fsSL "$repo_url/pets/$pet_id/spritesheet.webp" -o "$new_pet_dir/spritesheet.webp"
 
 # Refuses to install if the downloaded manifest is not for this pet.
-if ! grep -Eq '"id"[[:space:]]*:[[:space:]]*"peacemaker"' "$new_pet_dir/pet.json"; then
+if ! grep -Eq '"id"[[:space:]]*:[[:space:]]*"nukie"' "$new_pet_dir/pet.json"; then
 	echo "Downloaded manifest does not look like the $pet_id pet." >&2
 	exit 1
 fi

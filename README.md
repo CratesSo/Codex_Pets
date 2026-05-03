@@ -46,18 +46,18 @@ irm https://raw.githubusercontent.com/CratesSo/Codex_Pets/main/install/elyndex.p
 
 *A laid-back atomic bomb with a painted peace sign.*
 
-![Nukie preview](previews/peacemaker.webp)
+![Nukie preview](previews/nukie.webp)
 
 Install on macOS / Linux:
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/CratesSo/Codex_Pets/main/install/peacemaker.sh | bash
+curl -fsSL https://raw.githubusercontent.com/CratesSo/Codex_Pets/main/install/nukie.sh | bash
 ```
 
 Install with Windows PowerShell:
 
 ```powershell
-irm https://raw.githubusercontent.com/CratesSo/Codex_Pets/main/install/peacemaker.ps1 | iex
+irm https://raw.githubusercontent.com/CratesSo/Codex_Pets/main/install/nukie.ps1 | iex
 ```
 
 ---
