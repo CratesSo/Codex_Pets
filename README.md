@@ -8,16 +8,10 @@
 
 ![Java preview](previews/java.webp)
 
-Install on macOS / Linux:
+Install Java:
 
 ```sh
 curl -fsSL https://raw.githubusercontent.com/CratesSo/Codex_Pets/main/install/java.sh | bash
-```
-
-Install with Windows PowerShell:
-
-```powershell
-irm https://raw.githubusercontent.com/CratesSo/Codex_Pets/main/install/java.ps1 | iex
 ```
 
 ---
@@ -28,16 +22,10 @@ irm https://raw.githubusercontent.com/CratesSo/Codex_Pets/main/install/java.ps1 
 
 ![Elyndex preview](previews/elyndex.webp)
 
-Install on macOS / Linux:
+Install Elyndex:
 
 ```sh
 curl -fsSL https://raw.githubusercontent.com/CratesSo/Codex_Pets/main/install/elyndex.sh | bash
-```
-
-Install with Windows PowerShell:
-
-```powershell
-irm https://raw.githubusercontent.com/CratesSo/Codex_Pets/main/install/elyndex.ps1 | iex
 ```
 
 ---
@@ -48,16 +36,24 @@ irm https://raw.githubusercontent.com/CratesSo/Codex_Pets/main/install/elyndex.p
 
 ![Nukie preview](previews/nukie.webp)
 
-Install on macOS / Linux:
+Install Nukie:
 
 ```sh
 curl -fsSL https://raw.githubusercontent.com/CratesSo/Codex_Pets/main/install/nukie.sh | bash
 ```
 
-Install with Windows PowerShell:
+---
 
-```powershell
-irm https://raw.githubusercontent.com/CratesSo/Codex_Pets/main/install/nukie.ps1 | iex
+## Owlbear Cub
+
+*A compact chibi fantasy owlbear cub with a curious brave personality.*
+
+![Owlbear Cub preview](previews/owlbear-cub.webp)
+
+Install Owlbear Cub:
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/CratesSo/Codex_Pets/main/install/owlbear-cub.sh | bash
 ```
 
 ---
