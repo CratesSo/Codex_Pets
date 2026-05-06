@@ -46,7 +46,7 @@ curl -fsSL https://raw.githubusercontent.com/CratesSo/Codex_Pets/main/install/nu
 
 ## Owlbear Cub
 
-*A compact chibi fantasy owlbear cub with a curious brave personality.*
+*A curious and brave owlbear cub.*
 
 ![Owlbear Cub preview](previews/owlbear-cub.webp)
 
