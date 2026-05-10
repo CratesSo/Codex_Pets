@@ -58,6 +58,34 @@ curl -fsSL https://raw.githubusercontent.com/CratesSo/Codex_Pets/main/install/ow
 
 ---
 
+## Moonlantern Pixie
+
+*A captive pixie inside a Moonlantern. Grants protection from the Shadow Curse.*
+
+![Moonlantern Pixie preview](previews/dolly.webp)
+
+Install Moonlantern Pixie:
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/CratesSo/Codex_Pets/main/install/dolly.sh | bash
+```
+
+---
+
+## Cow King
+
+*Mooo, moo moo moo. MOOO!*
+
+![Cow King preview](previews/cow-king.webp)
+
+Install Cow King:
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/CratesSo/Codex_Pets/main/install/cow-king.sh | bash
+```
+
+---
+
 ## Backup Behavior
 
 *Existing pets with the same id are saved with a timestamp before the new copy is installed.*
